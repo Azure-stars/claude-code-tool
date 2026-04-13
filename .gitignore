@@ -4,7 +4,7 @@ node_modules/
 # VitePress build & cache
 docs/.vitepress/dist/
 docs/.vitepress/cache/
-.vitepress/
+/.vitepress/
 
 # Claude Code source (not part of this project)
 src/
