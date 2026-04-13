@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# VitePress build & cache
+docs/.vitepress/dist/
+docs/.vitepress/cache/
+.vitepress/
+
+# Claude Code source (not part of this project)
+src/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
